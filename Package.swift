@@ -31,3 +31,4 @@ let package = Package(
             path: "./Sources/VoiceSdk.xcframework")
     ]
 )
+
